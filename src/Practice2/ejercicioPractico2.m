@@ -304,7 +304,6 @@ function [hDistribucion, pDistribucion] = WiebulloNormal(source, distribucion)
     % distribucion: 'weibull' o 'normal'. Si se pretende analizar una u otra
     %
     % PARAMETROS SALIDA:
-    % % PARAMETROS ENTRADA:
     % hDistribucion: Devuelve 0 si es correcta la hipótesis de la 
     %                  distribución propuesta y 1 en caso contrario
     % pDistribucion: p-valor
